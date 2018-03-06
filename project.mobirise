@@ -42,7 +42,9 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/forevercoding.-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": "We use delicious cookies on all our amazing websites. If you hate cookies, or are just on a diet - you can disable them. Just note that our websites are dependent on some cookies (we love the choc-chip ones!), and some portions of our website will most likely not work properly if you disable cookies.  "
+    "cookiesAlert": "We use delicious cookies on all our amazing websites. If you hate cookies, or are just on a diet - you can disable them. Just note that our websites are dependent on some cookies (we love the choc-chip ones!), and some portions of our website will most likely not work properly if you disable cookies.  ",
+    "google-analytics": "<!-- Begin of Chaport Live Chat code -->\r\n<script type=\"text/javascript\">\r\n(function(w,d,v2){\r\nw.chaport = { app_id : '59fa4330fd80d9210c3b01e9' };\r\n\r\nv2=w.chaport;v2._q=[];v2._l={};v2.q=function(){v2._q.push(arguments)};v2.on=function(e,fn){if(!v2._l[e])v2._l[e]=[];v2._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);\r\n</script>\r\n<!-- End of Chaport Live Chat code -->",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
